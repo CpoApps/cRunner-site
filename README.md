@@ -2,7 +2,7 @@
 
 This directory contains static, responsive support and privacy pages in English, Dutch, German, French, and Spanish. The real cRunner SVG logo is used throughout, and every localized page links to the other languages.
 
-Published site: `https://cpoapps.github.io/cRunner-site/`  
+Published site: `https://cpoapps.github.io/cRunner-site/`
 Source repository: `https://github.com/CpoApps/cRunner-site`
 
 ## Live URL layout
